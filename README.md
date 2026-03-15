@@ -24,7 +24,7 @@
 * java
 * javascript
 * php
-* cpp
+* C++
 
 ---
 
@@ -84,9 +84,11 @@ Technologies used:
 
 ## 📫 Connect With Me
 
-GitHub: https://github.com/srajanangadi
-LinkedIn: https://linkedin.com/in/srajanangadi
-Behance: https://www.behance.net/srajanangadi
+**GitHub** : https://github.com/srajanangadi
+
+**LinkedIn** : https://linkedin.com/in/srajanangadi
+
+**Behance** : https://www.behance.net/srajanangadi
 
 ---
 
