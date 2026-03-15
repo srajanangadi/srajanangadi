@@ -20,24 +20,24 @@
 
 ### 💻 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,php,cpp" />
-</p>
+* python
+* java
+* javascript
+* php
+* cpp
 
 ---
 
 ### 🌐 Web Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,flask" />
-</p>
+* html
+* css
+* flask
 
 ## 🗄️ Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,oracle" />
-</p>
-
+* mysql
+* oracle
 
 Technologies used:
 
@@ -50,10 +50,6 @@ Technologies used:
 
 ### 📊 Data Science & Analytics
 
-<p>
-<img src="https://skillicons.dev/icons?i=pandas,matplotlib,seaborn,scikitlearn" />
-</p>
-
 * Python Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `scipy`, `pytorch`, `XGBoost`,`TreedClassifier`  
 * Tools: Power BI, Tableau, JMP  
 * Skills: Data Visualization, Data Analysis, Machine Learning, Statistical Modeling 
@@ -65,20 +61,16 @@ Technologies used:
 
 ---
 
-### ⚙️ Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github" />
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=srajanangadi&show_icons=true&theme=tokyonight" />
 
+</p>
+
+<p align="center">
+  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srajanangadi&layout=compact&theme=tokyonight" />
 
 </p>
