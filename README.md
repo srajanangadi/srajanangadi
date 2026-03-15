@@ -9,9 +9,13 @@
 ## 🚀 About Me
 
 🎓 **MBA**+**BCA** Graduate
+
 📊 Interested in **Software Development and Business Analysis**
+
 🧠 Currently learning **FastAPI WebFramework**
+
 💻 Building projects using **Python and Data Science tools**
+
 🎨&🎬 Part time Freelance Graphic Designer and Video Editor(Motion Graphics & 3D animations) 
 
 ---
