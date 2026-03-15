@@ -24,31 +24,31 @@
 
 ### 💻 Programming Languages
 
-* python
-* java
-* javascript
-* php
+* Python
+* Java
+* JavaScript
+* PHP
 * C++
 
 ---
 
 ### 🌐 Web Development
 
-* html
-* css
-* flask
+* HTML
+* CSS
+* Flask
 
 ## 🗄️ Databases
 
-* mysql
-* oracle
+* MySql
+* Oracle
 
 Technologies used:
 
 * HTML, CSS, JavaScript
 * Flask, PHP, Jinja2
 * SQLAlchemy, Marshmallow
-* JWT-authentication
+* JWT-Authentication
 
 ---
 
@@ -61,7 +61,7 @@ Technologies used:
 
 ### 📱 Mobile Development
 
-* Android Development
+* Android Development Studio
 
 ---
 
