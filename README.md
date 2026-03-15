@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Srajankumar
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=00A8E8&center=true&vCenter=true&width=600&lines=Software+Developer+and+Analyst;Building+AI+Projects" />
+  **Software Developer and Analyst**
 </p>
 
 ---
