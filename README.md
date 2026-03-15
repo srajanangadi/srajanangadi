@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Srajankumar
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=00A8E8&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Data+Science+Student;NLP+Learner;Building+AI+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=00A8E8&center=true&vCenter=true&width=600&lines=Software+Developer+and+Analyst;Building+AI+Projects" />
 </p>
 
 ---
@@ -32,29 +32,31 @@
 <img src="https://skillicons.dev/icons?i=html,css,flask" />
 </p>
 
+## 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,oracle" />
+</p>
+
+
 Technologies used:
 
-* HTML
-* CSS
-* JavaScript
-* Flask
-* PHP
-* Jinja2
-* SQLAlchemy
-* Marshmallow
+* HTML, CSS, JavaScript
+* Flask, PHP, Jinja2
+* SQLAlchemy, Marshmallow
 * JWT-authentication
 
 ---
 
-### 📊 Data & Analytics
+### 📊 Data Science & Analytics
 
-* SQL
-* Power BI
-* Tableau
-* JMP
-* Data Visualization
-* Data Analysis
+<p>
+<img src="https://skillicons.dev/icons?i=pandas,matplotlib,seaborn,scikitlearn" />
+</p>
 
+* Python Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `scipy`, `pytorch`, `XGBoost`,`TreedClassifier`  
+* Tools: Power BI, Tableau, JMP  
+* Skills: Data Visualization, Data Analysis, Machine Learning, Statistical Modeling 
 ---
 
 ### 📱 Mobile Development
