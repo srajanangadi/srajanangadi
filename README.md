@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Srajankumar
 
 <p align="center">
-  **Software Developer and Analyst**
+  <h2>Software Developer and Analyst</h2>
 </p>
 
 ---
