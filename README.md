@@ -36,6 +36,7 @@
 
 * HTML
 * CSS
+* BootStrap
 * Flask
 
 ## 🗄️ Databases
